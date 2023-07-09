@@ -13,8 +13,8 @@ image:
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
-fullname: "bets"
-selectorLabels: "bets"
+# fullname: "bets"
+# selectorLabels: "bets"
 
 serviceAccount:
   # Specifies whether a service account should be created
